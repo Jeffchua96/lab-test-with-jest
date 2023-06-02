@@ -12,7 +12,7 @@ First, complete the following steps to prepare your application to use Jest.
 
 1. Install `jest` as a developer dependency.
 
-1. Create a `__tests__` folder with two files: `concessions.test.js` and `tickets.test.js`.
+1. Create a `__tests__` folder with two files: `[concessions.test.js](https://github.com/Jeffchua96/lab-test-with-jest.git)` and `tickets.test.js`.
 
 1. Create a `"test"` script in your `package.json` file that will run your tests.
 
